@@ -1,0 +1,44 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #fff;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.google-logo {
+  height: 30px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-right img {
+  height: 24px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.gmail-logo {
+  height: 24px;
+}
+
+.images-logo {
+  height: 24px;
+}
+
+.google-apps-logo {
+  height: 24px;
+}
+
+.google-account-logo {
+  height: 24px;
+}
